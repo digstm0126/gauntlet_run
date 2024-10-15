@@ -161,9 +161,19 @@
 				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/Maps/L_test.umap",
 				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/drown.uasset",
 				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/pawns/player.uasset",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/pawns/BP_ball.uasset",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/control/EA_slam.uasset",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/control/InputMappingContext.uasset",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/control/forward.uasset",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/control/IA_forward.uasset",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/control/IA_slam.uasset",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/control/IMC_InputMappingContext.uasset",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/control/IA_move.uasset",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/control/IA_speed.uasset",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/Maps/L_map.umap",
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/gamemodes/mainGame.uasset",
 				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/pawns/P_ball.uasset",
-				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/pawns/ball.uasset",
-				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/pawns/BP_ball.uasset"
+				"/Users/digs/Library/CloudStorage/OneDrive-UniversityofCanterbury/Unreal Projects/Gauntlet_run_prod224/Gauntlet_Run/Content/pawns/ball.uasset"
 			]
 		}
 	]
